@@ -49,9 +49,3 @@ Email classification is the task of automatically categorizing emails into prede
 
 * * *
 
-
-
-
-```
-The final element.
-```
